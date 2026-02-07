@@ -1,0 +1,1953 @@
+{
+  "body": {
+    "rows": [
+      {
+        "cells": [
+          1,
+          1,
+          1
+        ],
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "heading",
+                "values": {
+                  "color": "",
+                  "headingType": "",
+                  "fontFamily": {},
+                  "fontSize": "",
+                  "textAlign": "",
+                  "lineHeight": "",
+                  "displayCondition": null,
+                  "_meta": {
+                    "htmlID": "u_content_heading_1",
+                    "htmlClassNames": "u_content_heading"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": false,
+                  "text": "<div style=\"background-color: #ffffff;height: 100%;width: 100% !important;\">\n<!--[if (!mso)&(!IE)]><!--><div class=\"v-col-border\" style=\"box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;\"><!--<![endif]-->\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_heading_1\" role=\"presentation\" style=\"font-family:Epilogue;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:81px 10px 10px;font-family:Epilogue;\">\n<!--[if mso]><table width=\"100%\"><tr><td><![endif]-->\n<h1 class=\"v-text-align v-font-size\" style=\"margin: 0px; color: #442f91; line-height: 120%; text-align: left; word-wrap: break-word; font-size: 26px; font-weight: 400;\"><span><span><span><span><span><span style=\"line-height: 26.4px;\"><strong>Your Home</strong><br><strong>Away from</strong><br><strong>Home \u2013 Bring</strong><br><strong>Your Furry</strong><br><strong>Friend Along!</strong></span></span></span></span></span></span></h1>\n<!--[if mso]></td></tr></table><![endif]-->\n</td>\n</tr>\n</tbody>\n</table>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_button_1\" role=\"presentation\" style=\"font-family:Epilogue;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:Epilogue;\">\n<!--[if mso]><style>.v-button {background: transparent !important;}</style><![endif]-->\n<div align=\"left\" class=\"v-text-align\">\n<!--[if mso]><v:roundrect xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:w=\"urn:schemas-microsoft-com:office:word\" href=\"assets/asset_2f8c5a96.bin\" style=\"height:37px; v-text-anchor:middle; width:185px;\" arcsize=\"11%\"  strokecolor=\"#442f91\" strokeweight=\"1px\" fillcolor=\"#ffffff\"><w:anchorlock/><center style=\"color:#442f91;\"><![endif]-->\n<a class=\"v-button v-size-width v-font-size\" href=\"assets/asset_2f8c5a96.bin\" style=\"box-sizing: border-box;display: inline-block;text-decoration: none;-webkit-text-size-adjust: none;text-align: center;color: #442f91; background-color: #ffffff; border-radius: 4px;-webkit-border-radius: 4px; -moz-border-radius: 4px; width:100%; max-width:100%; overflow-wrap: break-word; word-break: break-word; word-wrap:break-word; mso-border-alt: none;border-top-color: #442f91; border-top-style: solid; border-top-width: 1px; border-left-color: #442f91; border-left-style: solid; border-left-width: 1px; border-right-color: #442f91; border-right-style: solid; border-right-width: 1px; border-bottom-color: #442f91; border-bottom-style: solid; border-bottom-width: 1px;font-size: 14px;\" target=\"_blank\">\n<span style=\"display:block;padding:10px 20px;line-height:120%;\"><span style=\"line-height: 16.8px;\">Read More</span></span>\n</a>\n<!--[if mso]></center></v:roundrect><![endif]-->\n</div>\n</td>\n</tr>\n</tbody>\n</table>\n<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->\n</div>",
+                  "size": {
+                    "autoWidth": true,
+                    "width": "100%"
+                  },
+                  "padding": "",
+                  "border": {
+                    "borderBottom": "",
+                    "borderLeft": "",
+                    "borderRight": "",
+                    "borderTop": ""
+                  },
+                  "borderRadius": "",
+                  "calculatedWidth": null,
+                  "calculatedHeight": null,
+                  "textColor": "",
+                  "backgroundColor": "rgb(255, 255, 255)",
+                  "backgroundImage": {
+                    "url": "",
+                    "fullWidth": false,
+                    "repeat": false,
+                    "center": true,
+                    "cover": false
+                  },
+                  "contentWidth": "500px",
+                  "contentAlign": "center",
+                  "preheaderText": "",
+                  "columns": false,
+                  "hideDesktop": false,
+                  "containerPadding": "",
+                  "src": {
+                    "width": "auto",
+                    "height": "auto"
+                  }
+                }
+              }
+            ],
+            "values": {
+              "color": "",
+              "headingType": "",
+              "fontFamily": {},
+              "fontSize": "",
+              "textAlign": "",
+              "lineHeight": "",
+              "displayCondition": null,
+              "_meta": {
+                "htmlID": "u_column_1",
+                "htmlClassNames": "u_column"
+              },
+              "selectable": true,
+              "draggable": true,
+              "duplicatable": true,
+              "deletable": true,
+              "hideable": false,
+              "text": "",
+              "size": {
+                "autoWidth": true,
+                "width": "207px"
+              },
+              "padding": "",
+              "border": {
+                "borderBottom": "",
+                "borderLeft": "",
+                "borderRight": "",
+                "borderTop": ""
+              },
+              "borderRadius": "",
+              "calculatedWidth": null,
+              "calculatedHeight": null,
+              "textColor": "",
+              "backgroundColor": "",
+              "backgroundImage": {
+                "url": "",
+                "fullWidth": false,
+                "repeat": false,
+                "center": true,
+                "cover": false
+              },
+              "contentWidth": "500px",
+              "contentAlign": "center",
+              "preheaderText": "",
+              "columns": true,
+              "hideDesktop": false
+            }
+          },
+          {
+            "contents": [
+              {
+                "type": "image",
+                "values": {
+                  "color": "",
+                  "headingType": "",
+                  "fontFamily": {},
+                  "fontSize": "",
+                  "textAlign": "",
+                  "lineHeight": "",
+                  "displayCondition": null,
+                  "_meta": {
+                    "htmlID": "u_content_image_1",
+                    "htmlClassNames": "u_content_image"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": false,
+                  "text": "<div class=\"unlayer2be\"><img align=\"center\" alt=\"image\" border=\"0\" class=\"v-src-width v-src-max-width\" src=\"/static/templates/pet-friendly-accommodations/assets/1720424926357-Layer_201_201.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 170.02px;\" title=\"image\" width=\"170.02\"></div>",
+                  "size": {
+                    "autoWidth": true,
+                    "width": ""
+                  },
+                  "padding": "",
+                  "border": {
+                    "borderBottom": "",
+                    "borderLeft": "",
+                    "borderRight": "",
+                    "borderTop": ""
+                  },
+                  "borderRadius": "",
+                  "calculatedWidth": null,
+                  "calculatedHeight": null,
+                  "textColor": "",
+                  "backgroundColor": "",
+                  "backgroundImage": {
+                    "url": "",
+                    "fullWidth": false,
+                    "repeat": false,
+                    "center": true,
+                    "cover": false
+                  },
+                  "contentWidth": "500px",
+                  "contentAlign": "center",
+                  "preheaderText": "",
+                  "columns": false,
+                  "hideDesktop": false,
+                  "containerPadding": "",
+                  "src": {
+                    "url": "/static/templates/pet-friendly-accommodations/assets/1720424926357-Layer_201_201.png",
+                    "width": 170,
+                    "height": "auto"
+                  }
+                }
+              }
+            ],
+            "values": {
+              "color": "",
+              "headingType": "",
+              "fontFamily": {},
+              "fontSize": "",
+              "textAlign": "",
+              "lineHeight": "",
+              "displayCondition": null,
+              "_meta": {
+                "htmlID": "u_column_2",
+                "htmlClassNames": "u_column"
+              },
+              "selectable": true,
+              "draggable": true,
+              "duplicatable": true,
+              "deletable": true,
+              "hideable": false,
+              "text": "",
+              "size": {
+                "autoWidth": true,
+                "width": "190.02px"
+              },
+              "padding": "",
+              "border": {
+                "borderBottom": "",
+                "borderLeft": "",
+                "borderRight": "",
+                "borderTop": ""
+              },
+              "borderRadius": "",
+              "calculatedWidth": null,
+              "calculatedHeight": null,
+              "textColor": "",
+              "backgroundColor": "",
+              "backgroundImage": {
+                "url": "",
+                "fullWidth": false,
+                "repeat": false,
+                "center": true,
+                "cover": false
+              },
+              "contentWidth": "500px",
+              "contentAlign": "center",
+              "preheaderText": "",
+              "columns": true,
+              "hideDesktop": false
+            }
+          },
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "color": "",
+                  "headingType": "",
+                  "fontFamily": {},
+                  "fontSize": "",
+                  "textAlign": "",
+                  "lineHeight": "",
+                  "displayCondition": null,
+                  "_meta": {
+                    "htmlID": "u_content_text_1",
+                    "htmlClassNames": "u_content_text"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": false,
+                  "text": "<div style=\"background-color: #ffffff;height: 100%;width: 100% !important;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;\">\n<!--[if (!mso)&(!IE)]><!--><div class=\"v-col-border\" style=\"box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;\"><!--<![endif]-->\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_text_3\" role=\"presentation\" style=\"font-family:Epilogue;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:120px 10px 10px;font-family:Epilogue;\">\n<div class=\"v-text-align v-font-size\" style=\"font-size: 14px; line-height: 140%; text-align: left; word-wrap: break-word;\">\n<p style=\"line-height: 140%;\">Discover our exceptional pet-friendly accommodations, perfect for both you and your furry friend.</p>\n</div>\n</td>\n</tr>\n</tbody>\n</table>\n<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->\n</div>",
+                  "size": {
+                    "autoWidth": true,
+                    "width": "100%"
+                  },
+                  "padding": "",
+                  "border": {
+                    "borderBottom": "",
+                    "borderLeft": "",
+                    "borderRight": "",
+                    "borderTop": ""
+                  },
+                  "borderRadius": "0px",
+                  "calculatedWidth": null,
+                  "calculatedHeight": null,
+                  "textColor": "",
+                  "backgroundColor": "rgb(255, 255, 255)",
+                  "backgroundImage": {
+                    "url": "",
+                    "fullWidth": false,
+                    "repeat": false,
+                    "center": true,
+                    "cover": false
+                  },
+                  "contentWidth": "500px",
+                  "contentAlign": "center",
+                  "preheaderText": "",
+                  "columns": false,
+                  "hideDesktop": false,
+                  "containerPadding": "",
+                  "src": {
+                    "width": "auto",
+                    "height": "auto"
+                  }
+                }
+              }
+            ],
+            "values": {
+              "color": "",
+              "headingType": "",
+              "fontFamily": {},
+              "fontSize": "",
+              "textAlign": "",
+              "lineHeight": "",
+              "displayCondition": null,
+              "_meta": {
+                "htmlID": "u_column_3",
+                "htmlClassNames": "u_column"
+              },
+              "selectable": true,
+              "draggable": true,
+              "duplicatable": true,
+              "deletable": true,
+              "hideable": false,
+              "text": "",
+              "size": {
+                "autoWidth": true,
+                "width": "202.98px"
+              },
+              "padding": "",
+              "border": {
+                "borderBottom": "",
+                "borderLeft": "",
+                "borderRight": "",
+                "borderTop": ""
+              },
+              "borderRadius": "",
+              "calculatedWidth": null,
+              "calculatedHeight": null,
+              "textColor": "",
+              "backgroundColor": "",
+              "backgroundImage": {
+                "url": "",
+                "fullWidth": false,
+                "repeat": false,
+                "center": true,
+                "cover": false
+              },
+              "contentWidth": "500px",
+              "contentAlign": "center",
+              "preheaderText": "",
+              "columns": true,
+              "hideDesktop": false
+            }
+          }
+        ],
+        "values": {
+          "color": "",
+          "headingType": "",
+          "fontFamily": {},
+          "fontSize": "",
+          "textAlign": "",
+          "lineHeight": "",
+          "displayCondition": null,
+          "_meta": {
+            "htmlID": "u_row_1",
+            "htmlClassNames": "u_row"
+          },
+          "selectable": true,
+          "draggable": true,
+          "duplicatable": true,
+          "deletable": true,
+          "hideable": false,
+          "text": "",
+          "size": {
+            "autoWidth": true,
+            "width": ""
+          },
+          "padding": "0px",
+          "border": {
+            "borderBottom": "",
+            "borderLeft": "",
+            "borderRight": "",
+            "borderTop": ""
+          },
+          "borderRadius": "",
+          "calculatedWidth": null,
+          "calculatedHeight": null,
+          "textColor": "",
+          "backgroundColor": "",
+          "backgroundImage": {
+            "url": "",
+            "fullWidth": false,
+            "repeat": false,
+            "center": true,
+            "cover": false
+          },
+          "contentWidth": "500px",
+          "contentAlign": "center",
+          "preheaderText": "",
+          "columns": false,
+          "hideDesktop": false,
+          "columnsBackgroundColor": ""
+        }
+      },
+      {
+        "cells": [
+          1
+        ],
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "heading",
+                "values": {
+                  "color": "",
+                  "headingType": "",
+                  "fontFamily": {},
+                  "fontSize": "",
+                  "textAlign": "",
+                  "lineHeight": "",
+                  "displayCondition": null,
+                  "_meta": {
+                    "htmlID": "u_content_heading_1",
+                    "htmlClassNames": "u_content_heading"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": false,
+                  "text": "<div style=\"background-color: #ffffff;height: 100%;width: 100% !important;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;\">\n<!--[if (!mso)&(!IE)]><!--><div class=\"v-col-border\" style=\"box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;\"><!--<![endif]-->\n<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_heading_2\" role=\"presentation\" style=\"font-family:Epilogue;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:60px 10px 10px;font-family:Epilogue;\">\n<!--[if mso]><table width=\"100%\"><tr><td><![endif]-->\n<h1 class=\"v-text-align v-font-size\" style=\"margin: 0px; color: #442f91; line-height: 130%; text-align: center; word-wrap: break-word; font-size: 26px; font-weight: 400;\"><span><span><strong>Comfortable Stays for</strong><br><strong>You and Your Pet</strong></span></span></h1>\n<!--[if mso]></td></tr></table><![endif]-->\n</td>\n</tr>\n</tbody>\n</table></div>\n<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" style=\"font-family:Epilogue;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:10px 10px 0px;font-family:Epilogue;\">\n<div class=\"v-text-align v-font-size\" style=\"font-size: 18px; color: #442f91; line-height: 140%; text-align: left; word-wrap: break-word;\">\n<p style=\"line-height: 140%;\">Welcome to Our Pet-Friendly Accommodations! Enjoy a memorable stay with your furry friends.</p>\n</div>\n</td>\n</tr>\n</tbody>\n</table></div>\n<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->\n</div>",
+                  "size": {
+                    "autoWidth": true,
+                    "width": "100%"
+                  },
+                  "padding": "",
+                  "border": {
+                    "borderBottom": "",
+                    "borderLeft": "",
+                    "borderRight": "",
+                    "borderTop": ""
+                  },
+                  "borderRadius": "0px",
+                  "calculatedWidth": null,
+                  "calculatedHeight": null,
+                  "textColor": "",
+                  "backgroundColor": "rgb(255, 255, 255)",
+                  "backgroundImage": {
+                    "url": "",
+                    "fullWidth": false,
+                    "repeat": false,
+                    "center": true,
+                    "cover": false
+                  },
+                  "contentWidth": "500px",
+                  "contentAlign": "center",
+                  "preheaderText": "",
+                  "columns": false,
+                  "hideDesktop": false,
+                  "containerPadding": "",
+                  "src": {
+                    "width": "auto",
+                    "height": "auto"
+                  }
+                }
+              }
+            ],
+            "values": {
+              "color": "",
+              "headingType": "",
+              "fontFamily": {},
+              "fontSize": "",
+              "textAlign": "",
+              "lineHeight": "",
+              "displayCondition": null,
+              "_meta": {
+                "htmlID": "u_column_1",
+                "htmlClassNames": "u_column"
+              },
+              "selectable": true,
+              "draggable": true,
+              "duplicatable": true,
+              "deletable": true,
+              "hideable": false,
+              "text": "",
+              "size": {
+                "autoWidth": true,
+                "width": "600px"
+              },
+              "padding": "",
+              "border": {
+                "borderBottom": "",
+                "borderLeft": "",
+                "borderRight": "",
+                "borderTop": ""
+              },
+              "borderRadius": "",
+              "calculatedWidth": null,
+              "calculatedHeight": null,
+              "textColor": "",
+              "backgroundColor": "",
+              "backgroundImage": {
+                "url": "",
+                "fullWidth": false,
+                "repeat": false,
+                "center": true,
+                "cover": false
+              },
+              "contentWidth": "500px",
+              "contentAlign": "center",
+              "preheaderText": "",
+              "columns": true,
+              "hideDesktop": false
+            }
+          }
+        ],
+        "values": {
+          "color": "",
+          "headingType": "",
+          "fontFamily": {},
+          "fontSize": "",
+          "textAlign": "",
+          "lineHeight": "",
+          "displayCondition": null,
+          "_meta": {
+            "htmlID": "u_row_2",
+            "htmlClassNames": "u_row"
+          },
+          "selectable": true,
+          "draggable": true,
+          "duplicatable": true,
+          "deletable": true,
+          "hideable": false,
+          "text": "",
+          "size": {
+            "autoWidth": true,
+            "width": ""
+          },
+          "padding": "0px",
+          "border": {
+            "borderBottom": "",
+            "borderLeft": "",
+            "borderRight": "",
+            "borderTop": ""
+          },
+          "borderRadius": "",
+          "calculatedWidth": null,
+          "calculatedHeight": null,
+          "textColor": "",
+          "backgroundColor": "",
+          "backgroundImage": {
+            "url": "",
+            "fullWidth": false,
+            "repeat": false,
+            "center": true,
+            "cover": false
+          },
+          "contentWidth": "500px",
+          "contentAlign": "center",
+          "preheaderText": "",
+          "columns": false,
+          "hideDesktop": false,
+          "columnsBackgroundColor": ""
+        }
+      },
+      {
+        "cells": [
+          1,
+          1,
+          1
+        ],
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "color": "",
+                  "headingType": "",
+                  "fontFamily": {},
+                  "fontSize": "",
+                  "textAlign": "",
+                  "lineHeight": "",
+                  "displayCondition": null,
+                  "_meta": {
+                    "htmlID": "u_content_text_1",
+                    "htmlClassNames": "u_content_text"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": false,
+                  "text": "<div style=\"background-color: #ffffff;height: 100%;width: 100% !important;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;\">\n<!--[if (!mso)&(!IE)]><!--><div class=\"v-col-border\" style=\"box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;\"><!--<![endif]-->\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" style=\"font-family:Epilogue;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:Epilogue;\">\n<div class=\"v-text-align v-font-size\" style=\"font-size: 14px; line-height: 140%; text-align: left; word-wrap: break-word;\">\n<p style=\"line-height: 140%;\">Welcome to our pet-friendly accommodations! We understand that your furry friends are an important part of the family.</p>\n</div>\n</td>\n</tr>\n</tbody>\n</table>\n<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->\n</div>",
+                  "size": {
+                    "autoWidth": true,
+                    "width": "100%"
+                  },
+                  "padding": "",
+                  "border": {
+                    "borderBottom": "",
+                    "borderLeft": "",
+                    "borderRight": "",
+                    "borderTop": ""
+                  },
+                  "borderRadius": "0px",
+                  "calculatedWidth": null,
+                  "calculatedHeight": null,
+                  "textColor": "",
+                  "backgroundColor": "rgb(255, 255, 255)",
+                  "backgroundImage": {
+                    "url": "",
+                    "fullWidth": false,
+                    "repeat": false,
+                    "center": true,
+                    "cover": false
+                  },
+                  "contentWidth": "500px",
+                  "contentAlign": "center",
+                  "preheaderText": "",
+                  "columns": false,
+                  "hideDesktop": false,
+                  "containerPadding": "",
+                  "src": {
+                    "width": "auto",
+                    "height": "auto"
+                  }
+                }
+              }
+            ],
+            "values": {
+              "color": "",
+              "headingType": "",
+              "fontFamily": {},
+              "fontSize": "",
+              "textAlign": "",
+              "lineHeight": "",
+              "displayCondition": null,
+              "_meta": {
+                "htmlID": "u_column_1",
+                "htmlClassNames": "u_column"
+              },
+              "selectable": true,
+              "draggable": true,
+              "duplicatable": true,
+              "deletable": true,
+              "hideable": false,
+              "text": "",
+              "size": {
+                "autoWidth": true,
+                "width": "199.98px"
+              },
+              "padding": "",
+              "border": {
+                "borderBottom": "",
+                "borderLeft": "",
+                "borderRight": "",
+                "borderTop": ""
+              },
+              "borderRadius": "",
+              "calculatedWidth": null,
+              "calculatedHeight": null,
+              "textColor": "",
+              "backgroundColor": "",
+              "backgroundImage": {
+                "url": "",
+                "fullWidth": false,
+                "repeat": false,
+                "center": true,
+                "cover": false
+              },
+              "contentWidth": "500px",
+              "contentAlign": "center",
+              "preheaderText": "",
+              "columns": true,
+              "hideDesktop": false
+            }
+          },
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "color": "",
+                  "headingType": "",
+                  "fontFamily": {},
+                  "fontSize": "",
+                  "textAlign": "",
+                  "lineHeight": "",
+                  "displayCondition": null,
+                  "_meta": {
+                    "htmlID": "u_content_text_1",
+                    "htmlClassNames": "u_content_text"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": false,
+                  "text": "<div style=\"background-color: #ffffff;height: 100%;width: 100% !important;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;\">\n<!--[if (!mso)&(!IE)]><!--><div class=\"v-col-border\" style=\"box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;\"><!--<![endif]-->\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" style=\"font-family:Epilogue;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:Epilogue;\">\n<div class=\"v-text-align v-font-size\" style=\"font-size: 14px; line-height: 140%; text-align: left; word-wrap: break-word;\">\n<p style=\"line-height: 140%;\">Welcome to our Pet-Friendly Accommodations! Offering comfortable stays for both you and your furry friends.</p>\n</div>\n</td>\n</tr>\n</tbody>\n</table>\n<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->\n</div>",
+                  "size": {
+                    "autoWidth": true,
+                    "width": "100%"
+                  },
+                  "padding": "",
+                  "border": {
+                    "borderBottom": "",
+                    "borderLeft": "",
+                    "borderRight": "",
+                    "borderTop": ""
+                  },
+                  "borderRadius": "0px",
+                  "calculatedWidth": null,
+                  "calculatedHeight": null,
+                  "textColor": "",
+                  "backgroundColor": "rgb(255, 255, 255)",
+                  "backgroundImage": {
+                    "url": "",
+                    "fullWidth": false,
+                    "repeat": false,
+                    "center": true,
+                    "cover": false
+                  },
+                  "contentWidth": "500px",
+                  "contentAlign": "center",
+                  "preheaderText": "",
+                  "columns": false,
+                  "hideDesktop": false,
+                  "containerPadding": "",
+                  "src": {
+                    "width": "auto",
+                    "height": "auto"
+                  }
+                }
+              }
+            ],
+            "values": {
+              "color": "",
+              "headingType": "",
+              "fontFamily": {},
+              "fontSize": "",
+              "textAlign": "",
+              "lineHeight": "",
+              "displayCondition": null,
+              "_meta": {
+                "htmlID": "u_column_2",
+                "htmlClassNames": "u_column"
+              },
+              "selectable": true,
+              "draggable": true,
+              "duplicatable": true,
+              "deletable": true,
+              "hideable": false,
+              "text": "",
+              "size": {
+                "autoWidth": true,
+                "width": "231px"
+              },
+              "padding": "",
+              "border": {
+                "borderBottom": "",
+                "borderLeft": "",
+                "borderRight": "",
+                "borderTop": ""
+              },
+              "borderRadius": "",
+              "calculatedWidth": null,
+              "calculatedHeight": null,
+              "textColor": "",
+              "backgroundColor": "",
+              "backgroundImage": {
+                "url": "",
+                "fullWidth": false,
+                "repeat": false,
+                "center": true,
+                "cover": false
+              },
+              "contentWidth": "500px",
+              "contentAlign": "center",
+              "preheaderText": "",
+              "columns": true,
+              "hideDesktop": false
+            }
+          },
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "color": "",
+                  "headingType": "",
+                  "fontFamily": {},
+                  "fontSize": "",
+                  "textAlign": "",
+                  "lineHeight": "",
+                  "displayCondition": null,
+                  "_meta": {
+                    "htmlID": "u_content_text_1",
+                    "htmlClassNames": "u_content_text"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": false,
+                  "text": "<div style=\"background-color: #ffffff;height: 100%;width: 100% !important;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;\">\n<!--[if (!mso)&(!IE)]><!--><div class=\"v-col-border\" style=\"box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;\"><!--<![endif]-->\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_button_2\" role=\"presentation\" style=\"font-family:Epilogue;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:88px 10px 10px;font-family:Epilogue;\">\n<!--[if mso]><style>.v-button {background: transparent !important;}</style><![endif]-->\n<div align=\"center\" class=\"v-text-align\">\n<!--[if mso]><v:roundrect xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:w=\"urn:schemas-microsoft-com:office:word\" href=\"assets/asset_2f8c5a96.bin\" style=\"height:37px; v-text-anchor:middle; width:149px;\" arcsize=\"11%\"  stroke=\"f\" fillcolor=\"#442f91\"><w:anchorlock/><center style=\"color:#ffffff;\"><![endif]-->\n<a class=\"v-button v-size-width v-font-size\" href=\"assets/asset_2f8c5a96.bin\" style=\"box-sizing: border-box;display: inline-block;text-decoration: none;-webkit-text-size-adjust: none;text-align: center;color: #ffffff; background-color: #442f91; border-radius: 4px;-webkit-border-radius: 4px; -moz-border-radius: 4px; width:100%; max-width:100%; overflow-wrap: break-word; word-break: break-word; word-wrap:break-word; mso-border-alt: none;border-top-color: #442f91; border-top-style: solid; border-top-width: 0px; border-left-color: #442f91; border-left-style: solid; border-left-width: 0px; border-right-color: #442f91; border-right-style: solid; border-right-width: 0px; border-bottom-color: #442f91; border-bottom-style: solid; border-bottom-width: 0px;font-size: 14px;\" target=\"_blank\">\n<span style=\"display:block;padding:10px 20px;line-height:120%;\"><span style=\"line-height: 16.8px;\">Read More</span></span>\n</a>\n<!--[if mso]></center></v:roundrect><![endif]-->\n</div>\n</td>\n</tr>\n</tbody>\n</table>\n<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->\n</div>",
+                  "size": {
+                    "autoWidth": true,
+                    "width": "100%"
+                  },
+                  "padding": "",
+                  "border": {
+                    "borderBottom": "",
+                    "borderLeft": "",
+                    "borderRight": "",
+                    "borderTop": ""
+                  },
+                  "borderRadius": "0px",
+                  "calculatedWidth": null,
+                  "calculatedHeight": null,
+                  "textColor": "",
+                  "backgroundColor": "rgb(255, 255, 255)",
+                  "backgroundImage": {
+                    "url": "",
+                    "fullWidth": false,
+                    "repeat": false,
+                    "center": true,
+                    "cover": false
+                  },
+                  "contentWidth": "500px",
+                  "contentAlign": "center",
+                  "preheaderText": "",
+                  "columns": false,
+                  "hideDesktop": false,
+                  "containerPadding": "",
+                  "src": {
+                    "width": "auto",
+                    "height": "auto"
+                  }
+                }
+              }
+            ],
+            "values": {
+              "color": "",
+              "headingType": "",
+              "fontFamily": {},
+              "fontSize": "",
+              "textAlign": "",
+              "lineHeight": "",
+              "displayCondition": null,
+              "_meta": {
+                "htmlID": "u_column_3",
+                "htmlClassNames": "u_column"
+              },
+              "selectable": true,
+              "draggable": true,
+              "duplicatable": true,
+              "deletable": true,
+              "hideable": false,
+              "text": "",
+              "size": {
+                "autoWidth": true,
+                "width": "169.02px"
+              },
+              "padding": "",
+              "border": {
+                "borderBottom": "",
+                "borderLeft": "",
+                "borderRight": "",
+                "borderTop": ""
+              },
+              "borderRadius": "",
+              "calculatedWidth": null,
+              "calculatedHeight": null,
+              "textColor": "",
+              "backgroundColor": "",
+              "backgroundImage": {
+                "url": "",
+                "fullWidth": false,
+                "repeat": false,
+                "center": true,
+                "cover": false
+              },
+              "contentWidth": "500px",
+              "contentAlign": "center",
+              "preheaderText": "",
+              "columns": true,
+              "hideDesktop": false
+            }
+          }
+        ],
+        "values": {
+          "color": "",
+          "headingType": "",
+          "fontFamily": {},
+          "fontSize": "",
+          "textAlign": "",
+          "lineHeight": "",
+          "displayCondition": null,
+          "_meta": {
+            "htmlID": "u_row_3",
+            "htmlClassNames": "u_row"
+          },
+          "selectable": true,
+          "draggable": true,
+          "duplicatable": true,
+          "deletable": true,
+          "hideable": false,
+          "text": "",
+          "size": {
+            "autoWidth": true,
+            "width": ""
+          },
+          "padding": "0px",
+          "border": {
+            "borderBottom": "",
+            "borderLeft": "",
+            "borderRight": "",
+            "borderTop": ""
+          },
+          "borderRadius": "",
+          "calculatedWidth": null,
+          "calculatedHeight": null,
+          "textColor": "",
+          "backgroundColor": "",
+          "backgroundImage": {
+            "url": "",
+            "fullWidth": false,
+            "repeat": false,
+            "center": true,
+            "cover": false
+          },
+          "contentWidth": "500px",
+          "contentAlign": "center",
+          "preheaderText": "",
+          "columns": false,
+          "hideDesktop": false,
+          "columnsBackgroundColor": ""
+        }
+      },
+      {
+        "cells": [
+          1,
+          1,
+          1
+        ],
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "image",
+                "values": {
+                  "color": "",
+                  "headingType": "",
+                  "fontFamily": {},
+                  "fontSize": "",
+                  "textAlign": "",
+                  "lineHeight": "",
+                  "displayCondition": null,
+                  "_meta": {
+                    "htmlID": "u_content_image_1",
+                    "htmlClassNames": "u_content_image"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": false,
+                  "text": "<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_image_11\" role=\"presentation\" style=\"font-family:Epilogue;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:10px 5px 0px 10px;font-family:Epilogue;\">\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n<tbody><tr>\n<td align=\"center\" class=\"v-text-align\" style=\"padding-right: 0px;padding-left: 0px;\">\n<img align=\"center\" alt=\"image\" border=\"0\" class=\"v-src-width v-src-max-width\" src=\"/static/templates/pet-friendly-accommodations/assets/1720432367453-images_20_1_.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 185px;\" title=\"image\" width=\"185\">\n</td>\n</tr>\n</tbody></table>\n</td>\n</tr>\n</tbody>\n</table></div>",
+                  "size": {
+                    "autoWidth": true,
+                    "width": ""
+                  },
+                  "padding": "",
+                  "border": {
+                    "borderBottom": "",
+                    "borderLeft": "",
+                    "borderRight": "",
+                    "borderTop": ""
+                  },
+                  "borderRadius": "",
+                  "calculatedWidth": null,
+                  "calculatedHeight": null,
+                  "textColor": "",
+                  "backgroundColor": "",
+                  "backgroundImage": {
+                    "url": "",
+                    "fullWidth": false,
+                    "repeat": false,
+                    "center": true,
+                    "cover": false
+                  },
+                  "contentWidth": "500px",
+                  "contentAlign": "center",
+                  "preheaderText": "",
+                  "columns": false,
+                  "hideDesktop": false,
+                  "containerPadding": "",
+                  "src": {
+                    "url": "/static/templates/pet-friendly-accommodations/assets/1720432367453-images_20_1_.png",
+                    "width": 185,
+                    "height": "auto"
+                  }
+                }
+              },
+              {
+                "type": "image",
+                "values": {
+                  "color": "",
+                  "headingType": "",
+                  "fontFamily": {},
+                  "fontSize": "",
+                  "textAlign": "",
+                  "lineHeight": "",
+                  "displayCondition": null,
+                  "_meta": {
+                    "htmlID": "u_content_image_2",
+                    "htmlClassNames": "u_content_image"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": false,
+                  "text": "<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_image_12\" role=\"presentation\" style=\"font-family:Epilogue;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:10px 5px 0px 10px;font-family:Epilogue;\">\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n<tbody><tr>\n<td align=\"center\" class=\"v-text-align\" style=\"padding-right: 0px;padding-left: 0px;\">\n<img align=\"center\" alt=\"image\" border=\"0\" class=\"v-src-width v-src-max-width\" src=\"/static/templates/pet-friendly-accommodations/assets/1720432405057-images_20_4_.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 185px;\" title=\"image\" width=\"185\">\n</td>\n</tr>\n</tbody></table>\n</td>\n</tr>\n</tbody>\n</table></div>",
+                  "size": {
+                    "autoWidth": true,
+                    "width": ""
+                  },
+                  "padding": "",
+                  "border": {
+                    "borderBottom": "",
+                    "borderLeft": "",
+                    "borderRight": "",
+                    "borderTop": ""
+                  },
+                  "borderRadius": "",
+                  "calculatedWidth": null,
+                  "calculatedHeight": null,
+                  "textColor": "",
+                  "backgroundColor": "",
+                  "backgroundImage": {
+                    "url": "",
+                    "fullWidth": false,
+                    "repeat": false,
+                    "center": true,
+                    "cover": false
+                  },
+                  "contentWidth": "500px",
+                  "contentAlign": "center",
+                  "preheaderText": "",
+                  "columns": false,
+                  "hideDesktop": false,
+                  "containerPadding": "",
+                  "src": {
+                    "url": "/static/templates/pet-friendly-accommodations/assets/1720432405057-images_20_4_.png",
+                    "width": 185,
+                    "height": "auto"
+                  }
+                }
+              }
+            ],
+            "values": {
+              "color": "",
+              "headingType": "",
+              "fontFamily": {},
+              "fontSize": "",
+              "textAlign": "",
+              "lineHeight": "",
+              "displayCondition": null,
+              "_meta": {
+                "htmlID": "u_column_1",
+                "htmlClassNames": "u_column"
+              },
+              "selectable": true,
+              "draggable": true,
+              "duplicatable": true,
+              "deletable": true,
+              "hideable": false,
+              "text": "",
+              "size": {
+                "autoWidth": true,
+                "width": "200px"
+              },
+              "padding": "",
+              "border": {
+                "borderBottom": "",
+                "borderLeft": "",
+                "borderRight": "",
+                "borderTop": ""
+              },
+              "borderRadius": "",
+              "calculatedWidth": null,
+              "calculatedHeight": null,
+              "textColor": "",
+              "backgroundColor": "",
+              "backgroundImage": {
+                "url": "",
+                "fullWidth": false,
+                "repeat": false,
+                "center": true,
+                "cover": false
+              },
+              "contentWidth": "500px",
+              "contentAlign": "center",
+              "preheaderText": "",
+              "columns": true,
+              "hideDesktop": false
+            }
+          },
+          {
+            "contents": [
+              {
+                "type": "image",
+                "values": {
+                  "color": "",
+                  "headingType": "",
+                  "fontFamily": {},
+                  "fontSize": "",
+                  "textAlign": "",
+                  "lineHeight": "",
+                  "displayCondition": null,
+                  "_meta": {
+                    "htmlID": "u_content_image_1",
+                    "htmlClassNames": "u_content_image"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": false,
+                  "text": "<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_image_13\" role=\"presentation\" style=\"font-family:Epilogue;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:10px 7px 0px 8px;font-family:Epilogue;\">\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n<tbody><tr>\n<td align=\"center\" class=\"v-text-align\" style=\"padding-right: 0px;padding-left: 0px;\">\n<img align=\"center\" alt=\"image\" border=\"0\" class=\"v-src-width v-src-max-width\" src=\"/static/templates/pet-friendly-accommodations/assets/1720432378881-images_20_2_.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 185px;\" title=\"image\" width=\"185\">\n</td>\n</tr>\n</tbody></table>\n</td>\n</tr>\n</tbody>\n</table></div>",
+                  "size": {
+                    "autoWidth": true,
+                    "width": ""
+                  },
+                  "padding": "",
+                  "border": {
+                    "borderBottom": "",
+                    "borderLeft": "",
+                    "borderRight": "",
+                    "borderTop": ""
+                  },
+                  "borderRadius": "",
+                  "calculatedWidth": null,
+                  "calculatedHeight": null,
+                  "textColor": "",
+                  "backgroundColor": "",
+                  "backgroundImage": {
+                    "url": "",
+                    "fullWidth": false,
+                    "repeat": false,
+                    "center": true,
+                    "cover": false
+                  },
+                  "contentWidth": "500px",
+                  "contentAlign": "center",
+                  "preheaderText": "",
+                  "columns": false,
+                  "hideDesktop": false,
+                  "containerPadding": "",
+                  "src": {
+                    "url": "/static/templates/pet-friendly-accommodations/assets/1720432378881-images_20_2_.png",
+                    "width": 185,
+                    "height": "auto"
+                  }
+                }
+              },
+              {
+                "type": "image",
+                "values": {
+                  "color": "",
+                  "headingType": "",
+                  "fontFamily": {},
+                  "fontSize": "",
+                  "textAlign": "",
+                  "lineHeight": "",
+                  "displayCondition": null,
+                  "_meta": {
+                    "htmlID": "u_content_image_2",
+                    "htmlClassNames": "u_content_image"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": false,
+                  "text": "<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_image_14\" role=\"presentation\" style=\"font-family:Epilogue;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:10px 7px 10px 8px;font-family:Epilogue;\">\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n<tbody><tr>\n<td align=\"center\" class=\"v-text-align\" style=\"padding-right: 0px;padding-left: 0px;\">\n<img align=\"center\" alt=\"image\" border=\"0\" class=\"v-src-width v-src-max-width\" src=\"/static/templates/pet-friendly-accommodations/assets/1720432417164-images_20_5_.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 185px;\" title=\"image\" width=\"185\">\n</td>\n</tr>\n</tbody></table>\n</td>\n</tr>\n</tbody>\n</table></div>",
+                  "size": {
+                    "autoWidth": true,
+                    "width": ""
+                  },
+                  "padding": "",
+                  "border": {
+                    "borderBottom": "",
+                    "borderLeft": "",
+                    "borderRight": "",
+                    "borderTop": ""
+                  },
+                  "borderRadius": "",
+                  "calculatedWidth": null,
+                  "calculatedHeight": null,
+                  "textColor": "",
+                  "backgroundColor": "",
+                  "backgroundImage": {
+                    "url": "",
+                    "fullWidth": false,
+                    "repeat": false,
+                    "center": true,
+                    "cover": false
+                  },
+                  "contentWidth": "500px",
+                  "contentAlign": "center",
+                  "preheaderText": "",
+                  "columns": false,
+                  "hideDesktop": false,
+                  "containerPadding": "",
+                  "src": {
+                    "url": "/static/templates/pet-friendly-accommodations/assets/1720432417164-images_20_5_.png",
+                    "width": 185,
+                    "height": "auto"
+                  }
+                }
+              }
+            ],
+            "values": {
+              "color": "",
+              "headingType": "",
+              "fontFamily": {},
+              "fontSize": "",
+              "textAlign": "",
+              "lineHeight": "",
+              "displayCondition": null,
+              "_meta": {
+                "htmlID": "u_column_2",
+                "htmlClassNames": "u_column"
+              },
+              "selectable": true,
+              "draggable": true,
+              "duplicatable": true,
+              "deletable": true,
+              "hideable": false,
+              "text": "",
+              "size": {
+                "autoWidth": true,
+                "width": "200px"
+              },
+              "padding": "",
+              "border": {
+                "borderBottom": "",
+                "borderLeft": "",
+                "borderRight": "",
+                "borderTop": ""
+              },
+              "borderRadius": "",
+              "calculatedWidth": null,
+              "calculatedHeight": null,
+              "textColor": "",
+              "backgroundColor": "",
+              "backgroundImage": {
+                "url": "",
+                "fullWidth": false,
+                "repeat": false,
+                "center": true,
+                "cover": false
+              },
+              "contentWidth": "500px",
+              "contentAlign": "center",
+              "preheaderText": "",
+              "columns": true,
+              "hideDesktop": false
+            }
+          },
+          {
+            "contents": [
+              {
+                "type": "image",
+                "values": {
+                  "color": "",
+                  "headingType": "",
+                  "fontFamily": {},
+                  "fontSize": "",
+                  "textAlign": "",
+                  "lineHeight": "",
+                  "displayCondition": null,
+                  "_meta": {
+                    "htmlID": "u_content_image_1",
+                    "htmlClassNames": "u_content_image"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": false,
+                  "text": "<div class=\"unlayer2be\"><img align=\"center\" alt=\"image\" border=\"0\" class=\"v-src-width v-src-max-width\" src=\"/static/templates/pet-friendly-accommodations/assets/1720433898589-images_20_3_.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 185px;\" title=\"image\" width=\"185\"></div>",
+                  "size": {
+                    "autoWidth": true,
+                    "width": ""
+                  },
+                  "padding": "",
+                  "border": {
+                    "borderBottom": "",
+                    "borderLeft": "",
+                    "borderRight": "",
+                    "borderTop": ""
+                  },
+                  "borderRadius": "",
+                  "calculatedWidth": null,
+                  "calculatedHeight": null,
+                  "textColor": "",
+                  "backgroundColor": "",
+                  "backgroundImage": {
+                    "url": "",
+                    "fullWidth": false,
+                    "repeat": false,
+                    "center": true,
+                    "cover": false
+                  },
+                  "contentWidth": "500px",
+                  "contentAlign": "center",
+                  "preheaderText": "",
+                  "columns": false,
+                  "hideDesktop": false,
+                  "containerPadding": "",
+                  "src": {
+                    "url": "/static/templates/pet-friendly-accommodations/assets/1720433898589-images_20_3_.png",
+                    "width": 185,
+                    "height": "auto"
+                  }
+                }
+              }
+            ],
+            "values": {
+              "color": "",
+              "headingType": "",
+              "fontFamily": {},
+              "fontSize": "",
+              "textAlign": "",
+              "lineHeight": "",
+              "displayCondition": null,
+              "_meta": {
+                "htmlID": "u_column_3",
+                "htmlClassNames": "u_column"
+              },
+              "selectable": true,
+              "draggable": true,
+              "duplicatable": true,
+              "deletable": true,
+              "hideable": false,
+              "text": "",
+              "size": {
+                "autoWidth": true,
+                "width": "200px"
+              },
+              "padding": "",
+              "border": {
+                "borderBottom": "",
+                "borderLeft": "",
+                "borderRight": "",
+                "borderTop": ""
+              },
+              "borderRadius": "",
+              "calculatedWidth": null,
+              "calculatedHeight": null,
+              "textColor": "",
+              "backgroundColor": "",
+              "backgroundImage": {
+                "url": "",
+                "fullWidth": false,
+                "repeat": false,
+                "center": true,
+                "cover": false
+              },
+              "contentWidth": "500px",
+              "contentAlign": "center",
+              "preheaderText": "",
+              "columns": true,
+              "hideDesktop": false
+            }
+          }
+        ],
+        "values": {
+          "color": "",
+          "headingType": "",
+          "fontFamily": {},
+          "fontSize": "",
+          "textAlign": "",
+          "lineHeight": "",
+          "displayCondition": null,
+          "_meta": {
+            "htmlID": "u_row_4",
+            "htmlClassNames": "u_row"
+          },
+          "selectable": true,
+          "draggable": true,
+          "duplicatable": true,
+          "deletable": true,
+          "hideable": false,
+          "text": "",
+          "size": {
+            "autoWidth": true,
+            "width": ""
+          },
+          "padding": "0px",
+          "border": {
+            "borderBottom": "",
+            "borderLeft": "",
+            "borderRight": "",
+            "borderTop": ""
+          },
+          "borderRadius": "",
+          "calculatedWidth": null,
+          "calculatedHeight": null,
+          "textColor": "",
+          "backgroundColor": "",
+          "backgroundImage": {
+            "url": "",
+            "fullWidth": false,
+            "repeat": false,
+            "center": true,
+            "cover": false
+          },
+          "contentWidth": "500px",
+          "contentAlign": "center",
+          "preheaderText": "",
+          "columns": false,
+          "hideDesktop": false,
+          "columnsBackgroundColor": ""
+        }
+      },
+      {
+        "cells": [
+          1
+        ],
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "heading",
+                "values": {
+                  "color": "",
+                  "headingType": "",
+                  "fontFamily": {},
+                  "fontSize": "",
+                  "textAlign": "",
+                  "lineHeight": "",
+                  "displayCondition": null,
+                  "_meta": {
+                    "htmlID": "u_content_heading_1",
+                    "htmlClassNames": "u_content_heading"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": false,
+                  "text": "<div style=\"height: 100%;width: 100% !important;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;\">\n<!--[if (!mso)&(!IE)]><!--><div class=\"v-col-border\" style=\"box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;\"><!--<![endif]-->\n<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_heading_3\" role=\"presentation\" style=\"font-family:Epilogue;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:45px 10px 5px 25px;font-family:Epilogue;\">\n<!--[if mso]><table width=\"100%\"><tr><td><![endif]-->\n<h1 class=\"v-text-align v-font-size\" style=\"margin: 0px; color: #442f91; line-height: 140%; text-align: left; word-wrap: break-word; font-size: 22px; font-weight: 400;\"><span><span><span><span><span><span>Exclusive Offer</span></span></span></span></span></span></h1>\n<!--[if mso]></td></tr></table><![endif]-->\n</td>\n</tr>\n</tbody>\n</table></div>\n<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_heading_4\" role=\"presentation\" style=\"font-family:Epilogue;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:0px 10px 0px 25px;font-family:Epilogue;\">\n<!--[if mso]><table width=\"100%\"><tr><td><![endif]-->\n<h1 class=\"v-text-align v-font-size\" style=\"margin: 0px; color: #442f91; line-height: 90%; text-align: left; word-wrap: break-word; font-size: 71px; font-weight: 400;\"><span><span><span style=\"line-height: 63.9px;\"><strong>20%OFF</strong></span></span></span></h1>\n<!--[if mso]></td></tr></table><![endif]-->\n</td>\n</tr>\n</tbody>\n</table></div>\n<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_text_5\" role=\"presentation\" style=\"font-family:Epilogue;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:0px 10px 0px 25px;font-family:Epilogue;\">\n<div class=\"v-text-align v-font-size\" style=\"font-size: 22px; color: #442f91; line-height: 140%; text-align: left; word-wrap: break-word;\">\n<p style=\"line-height: 140%;\">on Pet-Friendly Rooms</p>\n</div>\n</td>\n</tr>\n</tbody>\n</table></div>\n<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_button_3\" role=\"presentation\" style=\"font-family:Epilogue;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:10px 10px 50px 25px;font-family:Epilogue;\">\n<!--[if mso]><style>.v-button {background: transparent !important;}</style><![endif]-->\n<div align=\"left\" class=\"v-text-align\">\n<!--[if mso]><table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td align=\"center\" bgcolor=\"#442f91\" style=\"padding:10px 20px;\" valign=\"top\"><![endif]-->\n<a class=\"v-button v-size-width v-font-size\" href=\"assets/asset_2f8c5a96.bin\" style=\"box-sizing: border-box;display: inline-block;text-decoration: none;-webkit-text-size-adjust: none;text-align: center;color: #FFFFFF; background-color: #442f91; border-radius: 4px;-webkit-border-radius: 4px; -moz-border-radius: 4px; width:30%; max-width:100%; overflow-wrap: break-word; word-break: break-word; word-wrap:break-word; mso-border-alt: none;font-size: 14px;\" target=\"_blank\">\n<span style=\"display:block;padding:10px 20px;line-height:120%;\"><span style=\"line-height: 16.8px;\">Read More</span></span>\n</a>\n<!--[if mso]></td></tr></table><![endif]-->\n</div>\n</td>\n</tr>\n</tbody>\n</table></div>\n<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->\n</div>",
+                  "size": {
+                    "autoWidth": true,
+                    "width": "100%"
+                  },
+                  "padding": "",
+                  "border": {
+                    "borderBottom": "",
+                    "borderLeft": "",
+                    "borderRight": "",
+                    "borderTop": ""
+                  },
+                  "borderRadius": "0px",
+                  "calculatedWidth": null,
+                  "calculatedHeight": null,
+                  "textColor": "",
+                  "backgroundColor": "",
+                  "backgroundImage": {
+                    "url": "",
+                    "fullWidth": false,
+                    "repeat": false,
+                    "center": true,
+                    "cover": false
+                  },
+                  "contentWidth": "500px",
+                  "contentAlign": "center",
+                  "preheaderText": "",
+                  "columns": false,
+                  "hideDesktop": false,
+                  "containerPadding": "",
+                  "src": {
+                    "width": "auto",
+                    "height": "auto"
+                  }
+                }
+              }
+            ],
+            "values": {
+              "color": "",
+              "headingType": "",
+              "fontFamily": {},
+              "fontSize": "",
+              "textAlign": "",
+              "lineHeight": "",
+              "displayCondition": null,
+              "_meta": {
+                "htmlID": "u_column_1",
+                "htmlClassNames": "u_column"
+              },
+              "selectable": true,
+              "draggable": true,
+              "duplicatable": true,
+              "deletable": true,
+              "hideable": false,
+              "text": "",
+              "size": {
+                "autoWidth": true,
+                "width": "600px"
+              },
+              "padding": "",
+              "border": {
+                "borderBottom": "",
+                "borderLeft": "",
+                "borderRight": "",
+                "borderTop": ""
+              },
+              "borderRadius": "",
+              "calculatedWidth": null,
+              "calculatedHeight": null,
+              "textColor": "",
+              "backgroundColor": "",
+              "backgroundImage": {
+                "url": "",
+                "fullWidth": false,
+                "repeat": false,
+                "center": true,
+                "cover": false
+              },
+              "contentWidth": "500px",
+              "contentAlign": "center",
+              "preheaderText": "",
+              "columns": true,
+              "hideDesktop": false
+            }
+          }
+        ],
+        "values": {
+          "color": "",
+          "headingType": "",
+          "fontFamily": {},
+          "fontSize": "",
+          "textAlign": "",
+          "lineHeight": "",
+          "displayCondition": null,
+          "_meta": {
+            "htmlID": "u_row_5",
+            "htmlClassNames": "u_row"
+          },
+          "selectable": true,
+          "draggable": true,
+          "duplicatable": true,
+          "deletable": true,
+          "hideable": false,
+          "text": "",
+          "size": {
+            "autoWidth": true,
+            "width": ""
+          },
+          "padding": "0px",
+          "border": {
+            "borderBottom": "",
+            "borderLeft": "",
+            "borderRight": "",
+            "borderTop": ""
+          },
+          "borderRadius": "",
+          "calculatedWidth": null,
+          "calculatedHeight": null,
+          "textColor": "",
+          "backgroundColor": "",
+          "backgroundImage": {
+            "url": "/static/templates/pet-friendly-accommodations/assets/1720426497607-Group_2019.png",
+            "fullWidth": false,
+            "repeat": false,
+            "center": true,
+            "cover": false
+          },
+          "contentWidth": "500px",
+          "contentAlign": "center",
+          "preheaderText": "",
+          "columns": false,
+          "hideDesktop": false,
+          "columnsBackgroundColor": ""
+        }
+      },
+      {
+        "cells": [
+          1
+        ],
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "color": "",
+                  "headingType": "",
+                  "fontFamily": {},
+                  "fontSize": "",
+                  "textAlign": "",
+                  "lineHeight": "",
+                  "displayCondition": null,
+                  "_meta": {
+                    "htmlID": "u_content_text_1",
+                    "htmlClassNames": "u_content_text"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": false,
+                  "text": "<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_text_6\" role=\"presentation\" style=\"font-family:Epilogue;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:0px 70px 20px;font-family:Epilogue;\">\n<div class=\"v-text-align v-font-size\" style=\"font-size: 14px; color: #ffffff; line-height: 170%; text-align: center; word-wrap: break-word;\">\n<p style=\"font-size: 14px; line-height: 170%;\">Professional HTML Email Templates - No Coding &amp; Design SKills Needed!</p>\n</div>\n</td>\n</tr>\n</tbody>\n</table></div>",
+                  "size": {
+                    "autoWidth": true,
+                    "width": ""
+                  },
+                  "padding": "",
+                  "border": {
+                    "borderBottom": "",
+                    "borderLeft": "",
+                    "borderRight": "",
+                    "borderTop": ""
+                  },
+                  "borderRadius": "",
+                  "calculatedWidth": null,
+                  "calculatedHeight": null,
+                  "textColor": "",
+                  "backgroundColor": "",
+                  "backgroundImage": {
+                    "url": "",
+                    "fullWidth": false,
+                    "repeat": false,
+                    "center": true,
+                    "cover": false
+                  },
+                  "contentWidth": "500px",
+                  "contentAlign": "center",
+                  "preheaderText": "",
+                  "columns": false,
+                  "hideDesktop": false,
+                  "containerPadding": "",
+                  "src": {
+                    "width": "auto",
+                    "height": "auto"
+                  }
+                }
+              },
+              {
+                "type": "image",
+                "values": {
+                  "color": "",
+                  "headingType": "",
+                  "fontFamily": {},
+                  "fontSize": "",
+                  "textAlign": "",
+                  "lineHeight": "",
+                  "displayCondition": null,
+                  "_meta": {
+                    "htmlID": "u_content_image_2",
+                    "htmlClassNames": "u_content_image"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": false,
+                  "text": "<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_social_1\" role=\"presentation\" style=\"font-family:Epilogue;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:Epilogue;\">\n<div align=\"center\" style=\"direction: ltr;\">\n<div style=\"display: table; max-width:167px;\">\n<!--[if (mso)|(IE)]><table width=\"167\" cellpadding=\"0\" cellspacing=\"0\" border=\"0\"><tr><td style=\"border-collapse:collapse;\" align=\"center\"><table width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" border=\"0\" style=\"border-collapse:collapse; mso-table-lspace: 0pt;mso-table-rspace: 0pt; width:167px;\"><tr><![endif]-->\n<!--[if (mso)|(IE)]><td width=\"32\" style=\"width:32px; padding-right: 10px;\" valign=\"top\"><![endif]-->\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" height=\"32\" style=\"width: 32px !important;height: 32px !important;display: inline-block;border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;margin-right: 10px\" width=\"32\">\n<tbody><tr style=\"vertical-align: top\"><td style=\"word-break: break-word;border-collapse: collapse !important;vertical-align: top\" valign=\"middle\">\n<a href=\"assets/asset_0c984410.bin\" target=\"_blank\" title=\"Facebook\">\n<img alt=\"Facebook\" src=\"/static/templates/pet-friendly-accommodations/assets/facebook.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important\" title=\"Facebook\" width=\"32\">\n</a>\n</td></tr>\n</tbody></table>\n<!--[if (mso)|(IE)]></td><![endif]-->\n<!--[if (mso)|(IE)]><td width=\"32\" style=\"width:32px; padding-right: 10px;\" valign=\"top\"><![endif]-->\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" height=\"32\" style=\"width: 32px !important;height: 32px !important;display: inline-block;border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;margin-right: 10px\" width=\"32\">\n<tbody><tr style=\"vertical-align: top\"><td style=\"word-break: break-word;border-collapse: collapse !important;vertical-align: top\" valign=\"middle\">\n<a href=\"https://www.linkedin.com/company/laravelmail/mycompany/\" target=\"_blank\" title=\"LinkedIn\">\n<img alt=\"LinkedIn\" src=\"/static/templates/pet-friendly-accommodations/assets/linkedin.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important\" title=\"LinkedIn\" width=\"32\">\n</a>\n</td></tr>\n</tbody></table>\n<!--[if (mso)|(IE)]></td><![endif]-->\n<!--[if (mso)|(IE)]><td width=\"32\" style=\"width:32px; padding-right: 10px;\" valign=\"top\"><![endif]-->\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" height=\"32\" style=\"width: 32px !important;height: 32px !important;display: inline-block;border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;margin-right: 10px\" width=\"32\">\n<tbody><tr style=\"vertical-align: top\"><td style=\"word-break: break-word;border-collapse: collapse !important;vertical-align: top\" valign=\"middle\">\n<a href=\"assets/asset_9fd8adc6.bin\" target=\"_blank\" title=\"Instagram\">\n<img alt=\"Instagram\" src=\"/static/templates/pet-friendly-accommodations/assets/instagram.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important\" title=\"Instagram\" width=\"32\">\n</a>\n</td></tr>\n</tbody></table>\n<!--[if (mso)|(IE)]></td><![endif]-->\n<!--[if (mso)|(IE)]><td width=\"32\" style=\"width:32px; padding-right: 0px;\" valign=\"top\"><![endif]-->\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" height=\"32\" style=\"width: 32px !important;height: 32px !important;display: inline-block;border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;margin-right: 0px\" width=\"32\">\n<tbody><tr style=\"vertical-align: top\"><td style=\"word-break: break-word;border-collapse: collapse !important;vertical-align: top\" valign=\"middle\">\n<a href=\"assets/asset_de62a5c7.bin\" target=\"_blank\" title=\"X\">\n<img alt=\"X\" src=\"/static/templates/pet-friendly-accommodations/assets/x.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important\" title=\"X\" width=\"32\">\n</a>\n</td></tr>\n</tbody></table>\n<!--[if (mso)|(IE)]></td><![endif]-->\n<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->\n</div>\n</div>\n</td>\n</tr>\n</tbody>\n</table></div>",
+                  "size": {
+                    "autoWidth": true,
+                    "width": ""
+                  },
+                  "padding": "",
+                  "border": {
+                    "borderBottom": "",
+                    "borderLeft": "",
+                    "borderRight": "",
+                    "borderTop": ""
+                  },
+                  "borderRadius": "",
+                  "calculatedWidth": null,
+                  "calculatedHeight": null,
+                  "textColor": "",
+                  "backgroundColor": "",
+                  "backgroundImage": {
+                    "url": "",
+                    "fullWidth": false,
+                    "repeat": false,
+                    "center": true,
+                    "cover": false
+                  },
+                  "contentWidth": "500px",
+                  "contentAlign": "center",
+                  "preheaderText": "",
+                  "columns": false,
+                  "hideDesktop": false,
+                  "containerPadding": "",
+                  "src": {
+                    "url": "/static/templates/pet-friendly-accommodations/assets/facebook.png",
+                    "width": 32,
+                    "height": "auto"
+                  }
+                }
+              },
+              {
+                "type": "text",
+                "values": {
+                  "color": "",
+                  "headingType": "",
+                  "fontFamily": {},
+                  "fontSize": "",
+                  "textAlign": "",
+                  "lineHeight": "",
+                  "displayCondition": null,
+                  "_meta": {
+                    "htmlID": "u_content_text_3",
+                    "htmlClassNames": "u_content_text"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": false,
+                  "text": "<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_text_7\" role=\"presentation\" style=\"font-family:Epilogue;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:10px 70px 50px;font-family:Epilogue;\">\n<div class=\"v-text-align v-font-size\" style=\"font-size: 14px; color: #ffffff; line-height: 170%; text-align: center; word-wrap: break-word;\">\n<p style=\"font-size: 14px; line-height: 170%;\">You recieved this email because you signed up for Laravel Mail.&nbsp;</p>\n</div>\n</td>\n</tr>\n</tbody>\n</table></div>",
+                  "size": {
+                    "autoWidth": true,
+                    "width": ""
+                  },
+                  "padding": "",
+                  "border": {
+                    "borderBottom": "",
+                    "borderLeft": "",
+                    "borderRight": "",
+                    "borderTop": ""
+                  },
+                  "borderRadius": "",
+                  "calculatedWidth": null,
+                  "calculatedHeight": null,
+                  "textColor": "",
+                  "backgroundColor": "",
+                  "backgroundImage": {
+                    "url": "",
+                    "fullWidth": false,
+                    "repeat": false,
+                    "center": true,
+                    "cover": false
+                  },
+                  "contentWidth": "500px",
+                  "contentAlign": "center",
+                  "preheaderText": "",
+                  "columns": false,
+                  "hideDesktop": false,
+                  "containerPadding": "",
+                  "src": {
+                    "width": "auto",
+                    "height": "auto"
+                  }
+                }
+              },
+              {
+                "type": "text",
+                "values": {
+                  "color": "",
+                  "headingType": "",
+                  "fontFamily": {},
+                  "fontSize": "",
+                  "textAlign": "",
+                  "lineHeight": "",
+                  "displayCondition": null,
+                  "_meta": {
+                    "htmlID": "u_content_text_4",
+                    "htmlClassNames": "u_content_text"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": false,
+                  "text": "<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" style=\"font-family:Epilogue;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:0px;font-family:Epilogue;\">\n<table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" height=\"0px\" style=\"border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;border-top: 1px solid #BBBBBB;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%\" width=\"100%\">\n<tbody>\n<tr style=\"vertical-align: top\">\n<td style=\"word-break: break-word;border-collapse: collapse !important;vertical-align: top;font-size: 0px;line-height: 0px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%\">\n<span>&nbsp;</span>\n</td>\n</tr>\n</tbody>\n</table>\n</td>\n</tr>\n</tbody>\n</table></div>",
+                  "size": {
+                    "autoWidth": true,
+                    "width": ""
+                  },
+                  "padding": "",
+                  "border": {
+                    "borderBottom": "",
+                    "borderLeft": "",
+                    "borderRight": "",
+                    "borderTop": ""
+                  },
+                  "borderRadius": "",
+                  "calculatedWidth": null,
+                  "calculatedHeight": null,
+                  "textColor": "",
+                  "backgroundColor": "",
+                  "backgroundImage": {
+                    "url": "",
+                    "fullWidth": false,
+                    "repeat": false,
+                    "center": true,
+                    "cover": false
+                  },
+                  "contentWidth": "500px",
+                  "contentAlign": "center",
+                  "preheaderText": "",
+                  "columns": false,
+                  "hideDesktop": false,
+                  "containerPadding": "",
+                  "src": {
+                    "width": "auto",
+                    "height": "auto"
+                  }
+                }
+              }
+            ],
+            "values": {
+              "color": "",
+              "headingType": "",
+              "fontFamily": {},
+              "fontSize": "",
+              "textAlign": "",
+              "lineHeight": "",
+              "displayCondition": null,
+              "_meta": {
+                "htmlID": "u_column_1",
+                "htmlClassNames": "u_column"
+              },
+              "selectable": true,
+              "draggable": true,
+              "duplicatable": true,
+              "deletable": true,
+              "hideable": false,
+              "text": "",
+              "size": {
+                "autoWidth": true,
+                "width": "600px"
+              },
+              "padding": "",
+              "border": {
+                "borderBottom": "",
+                "borderLeft": "",
+                "borderRight": "",
+                "borderTop": ""
+              },
+              "borderRadius": "",
+              "calculatedWidth": null,
+              "calculatedHeight": null,
+              "textColor": "",
+              "backgroundColor": "",
+              "backgroundImage": {
+                "url": "",
+                "fullWidth": false,
+                "repeat": false,
+                "center": true,
+                "cover": false
+              },
+              "contentWidth": "500px",
+              "contentAlign": "center",
+              "preheaderText": "",
+              "columns": true,
+              "hideDesktop": false
+            }
+          }
+        ],
+        "values": {
+          "color": "",
+          "headingType": "",
+          "fontFamily": {},
+          "fontSize": "",
+          "textAlign": "",
+          "lineHeight": "",
+          "displayCondition": null,
+          "_meta": {
+            "htmlID": "u_row_6",
+            "htmlClassNames": "u_row"
+          },
+          "selectable": true,
+          "draggable": true,
+          "duplicatable": true,
+          "deletable": true,
+          "hideable": false,
+          "text": "",
+          "size": {
+            "autoWidth": true,
+            "width": ""
+          },
+          "padding": "0px",
+          "border": {
+            "borderBottom": "",
+            "borderLeft": "",
+            "borderRight": "",
+            "borderTop": ""
+          },
+          "borderRadius": "",
+          "calculatedWidth": null,
+          "calculatedHeight": null,
+          "textColor": "",
+          "backgroundColor": "rgb(68, 47, 145)",
+          "backgroundImage": {
+            "url": "",
+            "fullWidth": false,
+            "repeat": false,
+            "center": true,
+            "cover": false
+          },
+          "contentWidth": "500px",
+          "contentAlign": "center",
+          "preheaderText": "",
+          "columns": false,
+          "hideDesktop": false,
+          "columnsBackgroundColor": ""
+        }
+      }
+    ],
+    "values": {
+      "color": "rgb(0, 0, 0)",
+      "headingType": "",
+      "fontFamily": {},
+      "fontSize": "",
+      "textAlign": "",
+      "lineHeight": "",
+      "displayCondition": null,
+      "_meta": {
+        "htmlID": "u_body",
+        "htmlClassNames": "u_body"
+      },
+      "selectable": true,
+      "draggable": true,
+      "duplicatable": true,
+      "deletable": true,
+      "hideable": false,
+      "text": "",
+      "size": {
+        "autoWidth": true,
+        "width": ""
+      },
+      "padding": "0px",
+      "border": {
+        "borderBottom": "",
+        "borderLeft": "",
+        "borderRight": "",
+        "borderTop": ""
+      },
+      "borderRadius": "",
+      "calculatedWidth": null,
+      "calculatedHeight": null,
+      "textColor": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundImage": {
+        "url": "",
+        "fullWidth": false,
+        "repeat": false,
+        "center": true,
+        "cover": false
+      },
+      "contentWidth": "500px",
+      "contentAlign": "center",
+      "preheaderText": "",
+      "columns": false,
+      "hideDesktop": false
+    }
+  },
+  "counters": {
+    "u_column": 12,
+    "u_row": 6,
+    "u_content_button": 0,
+    "u_content_heading": 3,
+    "u_content_text": 7,
+    "u_content_image": 7,
+    "u_content_menu": 0
+  },
+  "schemaVersion": 16
+}
